@@ -1,5 +1,5 @@
-- 👋 Buenas, soy @JesusCarrasquer
-- 👀 Estoy interesado en la programación, matemáticas y tecnología.
-- 🌱 Actualmente estoy aprendiendo back - end en un grado de desarrollo de aplicaciones multiplataforma y siguiendo diversos cursos para aprender front - end por mi cuenta
-- 💞️ Estoy buscando guardar aquí todo el código que escriba y ver también como puedo ayudar en el código de otros, para poder documentar mi progreso.
-- 📫 Si quieres contactar conmigo puedes hacerlo via twitter @jecarr123.
+- 👋 Hello there! I'm Jesús
+- 👀 I like Programming, puzzles and math!
+- 🌱 Currently studying in CPIFP Los Enlaces and learning to code!
+- 💞️ You will find here little projects i do in my off-time and some web developement bits
+- 📫 Wanna talk to me? Go ahead! https://twitter.com/jecarr123
