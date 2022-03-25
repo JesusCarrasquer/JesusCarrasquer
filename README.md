@@ -12,7 +12,7 @@
 
 ## ¡Concecta conmigo!
 
-![twitter] ![gmail] ![linkedin] ![discord]
+![twitter] [![gmail](https://raw.githubusercontent.com/parzibyte/JesusCarrasquer/JesusCarrasquer/main/assets/gmail.png)](jesuscarrasquer@gmail.com) ![linkedin] ![discord]
 
-[discord]: <https://iconscout.com/icon/gmail-3521453>
+
 
