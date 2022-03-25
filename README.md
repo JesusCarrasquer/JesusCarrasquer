@@ -14,5 +14,5 @@
 
 ![twitter] ![gmail] ![linkedin] ![discord]
 
-[discord]: <Assets\Iconos\discord.png>
+[discord]: <https://iconscout.com/icon/gmail-3521453>
 
