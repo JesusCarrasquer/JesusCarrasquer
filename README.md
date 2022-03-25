@@ -12,3 +12,7 @@
 
 ## ¡Concecta conmigo!
 
+![twitter] ![gmail] ![linkedin] ![discord]
+
+[discord]: <Assets\Iconos\discord.png>
+
