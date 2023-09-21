@@ -7,9 +7,10 @@
 
 - 👋 Mi nombre es Jesús
 - 👀 Me encanta programar, resolver problemas y aprender
-- 🌱 Actualmente me encuentro estudiando [DAM](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2010-11888) en el [CPIFP Los Enlaces](https://cpilosenlaces.com)
+- 🌱 Actualmente me encuentro estudiando [Ingeniería Informática](https://www.unir.net/ingenieria/grado-informatica/) en [UNIR](https://www.unir.net)
 - 💞️ En este perfil encontrarás pequeños proyectos que hago en mi tiempo libre
 
+<!--
 ## 🛠️¿Qué se hacer?🛠️
 
 ###  👨‍💻 Back - End
@@ -42,6 +43,7 @@
  <a href = "https://ubuntu.com"><img src="https://github.com/JesusCarrasquer/JesusCarrasquer/blob/main/Assets/Iconos/ubuntu.png" alt="Ubuntu" width="30px"/></a>
  <a href = "https://en.wikipedia.org/wiki/Windows_10"><img src="https://github.com/JesusCarrasquer/JesusCarrasquer/blob/main/Assets/Iconos/windows.png" alt="Windows" width="30px"/></a>
 </p>
+!-->
 
 ### 📜 IDIOMAS
 
