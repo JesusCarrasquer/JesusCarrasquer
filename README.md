@@ -63,6 +63,6 @@
 <p align="center">
   <a href = "jesuscarrasquer@gmail.com"><img src="https://github.com/JesusCarrasquer/JesusCarrasquer/blob/main/Assets/Iconos/gmail.png" alt="Gmail" width="30px"/></a>
   <a href = "https://discordapp.com/users/326780126895407105"><img src="https://github.com/JesusCarrasquer/JesusCarrasquer/blob/main/Assets/Iconos/discord.png" alt="Discord" width="30px"/></a>
-  <a href = "https://twitter.com/jecarr123"><img src="https://github.com/JesusCarrasquer/JesusCarrasquer/blob/main/Assets/Iconos/twitter.png" alt="Twitter" width="30px"/></a>
+ <!-- <a href = "https://twitter.com/jecarr123"><img src="https://github.com/JesusCarrasquer/JesusCarrasquer/blob/main/Assets/Iconos/twitter.png" alt="Twitter" width="30px"/></a> -->
   <a href = "https://www.linkedin.com/in/jesús-carrasquer-gonzalvo-828652187/"><img src="https://github.com/JesusCarrasquer/JesusCarrasquer/blob/main/Assets/Iconos/linkedin.png" alt="LinkedIn" width="30px"/></a>
 </p>
